@@ -34,3 +34,4 @@ print(hist)
 hist.render_to_file('D6results.svg')
 # plt.bar(x, frequencies)
 # plt.show()
+# 这是修改过的情况
